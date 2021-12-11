@@ -1,0 +1,10 @@
+.bgcolor {
+  display: block;
+  background-color: red !important;
+  color: black;
+  margin: 10px;
+}
+
+.fgcolor {
+  background-color: yellow;
+}

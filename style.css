@@ -1,0 +1,43 @@
+.responsive {
+  /* display: flex; */
+  font-size: 60px;
+  /* justify-content: space-around; */
+  display: grid;
+  grid-template-columns: 1fr 300px;
+}
+
+/* .responsive {
+  height: 300px;
+  width: 800px;
+  background-color: red;
+  color: white;
+  font-size: 60px;
+  padding: 10px;
+}
+
+@media screen and (max-width: 1000px) {
+  .responsive {
+    width: 500px;
+  }
+} */
+
+/* .animation1 {
+  background-color: green;
+  color: white;
+  animation: color-change 2s forwards;
+}
+
+@keyframes color-change {
+  0% {
+    background-color: red;
+    transform: translateX(0);
+  }
+  50% {
+    background-color: yellow;
+  }
+  100% {
+    background-color: aqua;
+    transform: translateX(100px);
+  }
+}
+ */
